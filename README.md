@@ -1,2 +1,2 @@
 # online movie ticket booking
- We can book any kmovie tickets at any place using this wev site. It is developed using  React,nodejs, Mysql, html, css
+ We can book any movie tickets at any place using this web site. It is developed using  React,nodejs, Mysql, html, css
